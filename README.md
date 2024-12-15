@@ -1,6 +1,6 @@
 # Consumer-Insights-Project
 
-<a href="https://public.tableau.com/views/CustomerInsightsDashboard_17330158312860/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">click here for tableau dashboard</a>
+<a href="https://public.tableau.com/views/CustomerInsightsDashboard_17330158312860/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Click here for tableau dashboard</a>
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ A series of SQL queries were used to address the above analytics questions. Key 
 
 ---
 
-## Tableau Dashboard
+## <a href="https://public.tableau.com/views/CustomerInsightsDashboard_17330158312860/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>
 The findings from SQL queries were visualized using Tableau to create an **interactive dashboard** showcasing:
 1. **Average Purchase Amount and Review Ratings** by Item and Category.
 2. **Seasonal Sales Trends** across different product categories.
@@ -70,7 +70,7 @@ Key Performace Indicators(KPIs):
 ## Tools and Technologies
 - **SQL**: Data extraction and analysis.
 - **Tableau**: Visualization and dashboard creation.
-- **Data Source**: "PROJECT" schema from `customer_insights` table.
+- **Data Source**: "`shopping_behavior_updated.csv` (included in the repository).
 
 ---
 
@@ -80,25 +80,12 @@ Key Performace Indicators(KPIs):
 3. **Seasonal Trends**: Spring observed the highest number of purchases, with specific items driving seasonal sales.
 4. **Customer Loyalty**: Recurring customers with active subscriptions contribute significantly to sales.
 
----
-
-## How to Use This Repository
-1. **SQL Queries**: Access and modify SQL scripts in the `sql_analysis` folder to explore further insights.
-2. **Tableau Dashboard**: Open the Tableau workbook to interact with the visualizations.
-3. **Insights Documentation**: Review the summarized insights in this README.
-
----
-
-## Future Improvements
-- Incorporate time-series analysis to explore trends over time.
-- Perform correlation analysis to determine relationships between promo usage, customer loyalty, and review ratings.
-- Integrate machine learning models for predictive analytics on customer behavior.
 
 ---
 
 ## Author
 Shams Sadhin
 mail: sadhinss@mail.uc.edu
-Linkedin: https://www.linkedin.com/feed/
+Linkedin: https://www.linkedin.com/in/shams-sadhin/
 
 ---
