@@ -8,7 +8,6 @@
 
 **Goal**: Develop SQL skills for business analytics by solving key questions related to customers, products, promotions, and satisfaction, supporting data-driven decision-making.
 
----
 
 ## Project Components
 
@@ -42,7 +41,7 @@
 - Identified **top-rated items** and patterns in ratings based on category, color, and season.
 - Calculated **average review ratings** by category and identified the categories with the most rating variation.
 
----
+
 
 ## Data Analysis Queries (SQL)
 A series of SQL queries were used to address the above analytics questions. Key highlights include:
@@ -50,7 +49,6 @@ A series of SQL queries were used to address the above analytics questions. Key 
 - Aggregate functions like `AVG`, `COUNT`, `ROUND`, and conditional grouping with `CASE` statements.
 - Analysis of seasonal trends, promo usage, and review ratings to identify actionable insights.
 
----
 
 ## <a href="https://public.tableau.com/views/CustomerInsightsDashboard_17330158312860/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>
 The findings from SQL queries were visualized using Tableau to create an **interactive dashboard** showcasing:
@@ -65,14 +63,14 @@ Key Performace Indicators(KPIs):
 - **Avg. Purchase Amount**  
 - **Avg. Review Rating** 
 
----
+
 
 ## Tools and Technologies
 - **SQL**: Data extraction and analysis.
 - **Tableau**: Visualization and dashboard creation.
 - **Data Source**: "`shopping_behavior_updated.csv` (included in the repository).
 
----
+
 
 ## Business Insights
 1. **Top-performing categories**: Footwear emerged as the most profitable category with an average purchase amount of $60.26.
@@ -81,11 +79,11 @@ Key Performace Indicators(KPIs):
 4. **Customer Loyalty**: Recurring customers with active subscriptions contribute significantly to sales.
 
 
----
+
 
 ## Author
 Shams Sadhin
 mail: sadhinss@mail.uc.edu
 Linkedin: https://www.linkedin.com/in/shams-sadhin/
 
----
+
