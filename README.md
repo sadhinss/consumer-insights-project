@@ -9,6 +9,7 @@
 **Goal**: Develop SQL skills for business analytics by solving key questions related to customers, products, promotions, and satisfaction, supporting data-driven decision-making.
 
 ## Data Analysis Queries (SQL)
+
 A series of SQL queries were used to address the some analytics questions. Key highlights include:
 - CTEs and subqueries to group, rank, and filter data.
 - Aggregate functions like `AVG`, `COUNT`, `ROUND`, and conditional grouping with `CASE` statements.
@@ -24,6 +25,7 @@ Key Performace Indicators(KPIs):
 
 
 ## Tools and Technologies
+
 - **SQL**: Data extraction and analysis.
 - **Tableau**: Visualization and dashboard creation.
 - **Data Source**: "`shopping_behavior_updated.csv` (included in the repository).
@@ -31,6 +33,7 @@ Key Performace Indicators(KPIs):
 
 
 ## Business Insights
+
 1. **Top-performing categories**: Footwear emerged as the most profitable category with an average purchase amount of $60.26.
 2. **Promo Codes Impact**: Promo codes influenced 30%+ of purchases, with a notable difference in purchase amounts.
 3. **Seasonal Trends**: Spring observed the highest number of purchases, with specific items driving seasonal sales.
@@ -38,10 +41,12 @@ Key Performace Indicators(KPIs):
 
 
 
-
 ## Author
-Shams Sadhin
-mail: sadhinss@mail.uc.edu
-Linkedin: https://www.linkedin.com/in/shams-sadhin/
+
+**Shams Sadhin**  
+Mail: [sadhinss@mail.uc.edu](mailto:sadhinss@mail.uc.edu)  
+LinkedIn: [https://www.linkedin.com/in/shams-sadhin/](https://www.linkedin.com/in/shams-sadhin/)  
+Tableau: [https://public.tableau.com/app/profile/shams.sadhin/vizzes](https://public.tableau.com/app/profile/shams.sadhin/vizzes)
+
 
 
